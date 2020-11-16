@@ -37,7 +37,7 @@ A class for drawing hexagons overlays on a map. Extends Polygon.
 ### Creation
 Factory | Description
 ------------ | -------------
-L.hexagon(\<LatLng> center, \<Polyline options> options?)  | Center can be either  an array [x,y] in pixels, or a \<Point> or a \<LatLng>
+L.hexagon(\<LatLng \| Number[] \| Point> center, \<Polyline options> options?)  | Center can be either  an array [x,y] in pixels, or a \<Point> or a \<LatLng>
 
 ### Options
 Option | Type | 	Default | Description
