@@ -2,13 +2,13 @@
 
 This plugin provides fully customizable Hexagonal Binning functionality for Leaflet, a JS library for interactive maps.
 
-Requires Leaflet, D3.hexbin and D3.scale.
+It requires Leaflet, D3.hexbin and D3.scale.
 
 ![](/hexbins_illustration.png)
 
 Two new functions are provided:
 * `L.hexagon`: an extension of L.Polygon that allows creating a simple hexagon by specifying the position of its center and its radius in pixels
-* `L.hexbins`: an group layer that automatically calculate hexagonal binning of a set of coordinates and create an L.hexagon for each bin.
+* `L.hexbins`: an Layer group that automatically calculate hexagonal binning of a set of coordinates and create an L.hexagon for each bin.
 
 ## Using the plugin
 Download Leaflet.hexbins.js and include it in your HTML page.
