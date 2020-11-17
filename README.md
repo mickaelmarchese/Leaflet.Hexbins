@@ -1,6 +1,6 @@
 # Leaflet.Hexbins
 
-This plugin provides fully customizable Hexagonal Binning functionality for Leaflet, a JS library for interactive maps.
+This plugin provides fully customizable Hexagonal Binning functionality for [Leaflet](https://leafletjs.com/), a JS library for interactive maps.
 
 It requires Leaflet, D3.hexbin and D3.scale.
 
