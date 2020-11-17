@@ -4,7 +4,7 @@ This plugin provides fully customizable Hexagonal Binning functionality for Leaf
 
 It requires Leaflet, D3.hexbin and D3.scale.
 
-![](/hexbins_illustration.png)
+![](/img/hexbins_illustration.png)
 
 Two new functions are provided:
 * `L.hexagon`: an extension of L.Polygon that allows creating a simple hexagon by specifying the position of its center and its radius in pixels
@@ -46,6 +46,6 @@ Option | Type | 	Default | Description
 ------------ | ------------- | ------------- | -------------
 radius | Number | 10 | The radius of the hexagon in pixels.
  
- ![](/hexbins_illustration.png)
+![](/img/radius.png)
 
 
