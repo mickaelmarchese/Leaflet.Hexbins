@@ -24,7 +24,7 @@ Find a live demo here.
 To create a new hexagon, use:
 ```javascript
 L.hexagon([200,200]).addTo(map); // position in pixels
-L.hexagon(L.LatLng([46.954825, 0.603445])).addTo(map); //Lat / Long position
+L.hexagon(L.LatLng([46.954825, 0.603445])).addTo(map); //position in Lat,Long
 ```
 
 
@@ -46,5 +46,6 @@ Option | Type | 	Default | Description
 ------------ | ------------- | ------------- | -------------
 radius | Number | 10 | The radius of the hexagon in pixels.
  
+ ![](/hexbins_illustration.png)
 
 
