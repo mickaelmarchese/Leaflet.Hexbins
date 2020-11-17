@@ -16,7 +16,7 @@ Download Leaflet.hexbins.js and include it in your HTML page.
 To use `L.hexbins`, include D3-hexbin (https://d3js.org/d3-hexbin.v0.2.min.js) and D3-scale (https://d3js.org/d3-scale.v3.min.js) as well.
 
 ### Demo
-Find a live demo here.
+Find a live demo [here](http://marchese.fr/hexbin-demo/).
 
 
 ### Usage examples
