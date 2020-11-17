@@ -46,6 +46,6 @@ Option | Type | 	Default | Description
 ------------ | ------------- | ------------- | -------------
 radius | Number | 10 | The radius of the hexagon in pixels.
  
-![](/img/radius.png)
+
 
 
